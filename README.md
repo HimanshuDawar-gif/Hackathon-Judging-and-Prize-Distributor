@@ -19,6 +19,9 @@ The `HackathonJudging` contract manages:
 - **Judges** — submit scores (0–100) for submissions
 - **Observer** — reads leaderboard and pool info
 
+
+`Contract Address = CASFKDX6OO52YZJ2A6INT2QK76YTPSLLBRNNXQAS7G6YIQZJ7PYOYEV2`
+
 Key functions:
 
 | Function | Who | Description |
